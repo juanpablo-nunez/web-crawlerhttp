@@ -1,0 +1,23 @@
+{
+  "name": "web-crawlerhttp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanpablo-nunez/web-crawlerhttp.git"
+  },
+  "author": "Juan Pablo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanpablo-nunez/web-crawlerhttp/issues"
+  },
+  "homepage": "https://github.com/juanpablo-nunez/web-crawlerhttp#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
